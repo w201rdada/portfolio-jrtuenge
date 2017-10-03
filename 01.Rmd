@@ -22,5 +22,5 @@ With just one year under its belt, the Kernel of Health system has already ident
 
 ## References
 
-[1] http://www.latimes.com/business/hiltzik/la-fi-mh-reporting-on-quacks-and-pseudoscience-20150413-column.html
+[1] http://www.latimes.com/business/hiltzik/la-fi-mh-reporting-on-quacks-and-pseudoscience-20150413-column.html  
 [2] http://www.npr.org/sections/thetwo-way/2016/05/03/476673789/china-investigates-search-engine-baidu-after-student-dies-of-cancer
