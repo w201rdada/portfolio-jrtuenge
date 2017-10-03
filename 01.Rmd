@@ -2,7 +2,7 @@
 
 #### Keywords
 
-Disease; ailment; health condition; diagnosis; etiology; unknown cause; idiopathic; confounding variables; nostrum; pseudoscience; quackery; crowdsource; research
+Disease; ailment; health condition; diagnosis; etiology; unknown cause; idiopathic; confounding variables; nostrum; pseudoscience; quackery; crowdsource; research; remedy
 
 ## Health confounded
 
@@ -10,9 +10,11 @@ They say that in every lie there’s a kernel of truth. There are a multitude of
 
 ## Light at the end of the tunnel
 
-Crowdsourcing seems to be in the trough of its hype cycle, but patients often have novel (ahem) hypotheses regarding possible etiology of their ailment, and why not harness this energy? What if we could create a network, moderated by their doctors, for patients who share a single accurate diagnosis? Imagine providing an environment for them to brainstorm together, where they could offer and compare ideas for all sorts of potential causes -- ranging from deodorant ingredients to nervous habits? Sure, most of the data would probably be a little wide of the mark, and some commonalities would be no less prevalent in the rest of the population. But even if only one in ten such networks leads to a new and efficacious remedy, wouldn’t this justify panning for a little gold? 
+Crowdsourcing seems to be in the trough of its hype cycle, but patients often have novel (ahem) hypotheses regarding possible etiology of their ailment, and why not harness this energy? What if we could create a network, moderated by their doctors, for patients who share a single accurate diagnosis? Imagine providing an environment for them to brainstorm together, where they could offer and compare ideas for all sorts of potential causes, ranging from deodorant ingredients to nervous habits? Sure, most of the data would probably be a little wide of the mark, and some commonalities would be no less prevalent in the rest of the population. But even if only one in ten such networks leads to a new and efficacious remedy, wouldn’t this justify panning for a little gold? 
 
-Fortunately, the solution is already here, embodied in the Kernel of Health patient-centric system. To ensure network quality, participant admittance and retention in the system is controlled by the doctors responsible for their diagnosis. Participants are only identifiable by their doctors, and provide consent after being fully informed regarding the allowed usage of their submitted data. They're encouraged to create and populate new variables, however nonsensical they might be, and the system distributes these new variables to other participants to populate in turn. All have skin in the game, so to speak, so engagement is robust. And although patients inevitably bring their own biases to the system, their ideas are distributed randomly to ensure the system does not worsen the confusion. 
+Fortunately, the solution is already here, embodied in the Kernel of Health patient-centric system. To ensure network quality, participant admittance and retention in the system is controlled by the doctors responsible for their diagnosis. Participants are only identifiable by their doctors, and provide consent after being fully informed regarding the allowed usage of their submitted data. They're encouraged to create (and upvote) new variables, however nonsensical they might be, and the system distributes these new variables to other participants to upvote in turn. 
+
+All participants have skin in the game, so to speak, so engagement is robust. And although patients inevitably bring their own biases to the system, two safeguards have been put in place to ensure the system does not worsen the confusion. First, patients must submit a set of initial hypotheses before gaining access to the hypotheses of other participants. Second, rather than being allowed a full view of the hypothesis population, each participant is presented with a random sample of equally-weighted hypotheses before being allowed to submit additional hypotheses of their own (perhaps inspired by their view of the sample). 
 
 ## Out of the darkness
 
