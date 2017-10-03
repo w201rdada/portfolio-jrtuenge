@@ -6,7 +6,7 @@ Disease; ailment; health condition; diagnosis; etiology; unknown cause; idiopath
 
 ## Health confounded
 
-They say that in every lie there’s a kernel of truth. There are a multitude of health conditions for which no cure has been discovered, and this is often due at least in part to there being no known cause. The efficiency of medical research is constrained by our limited ability to conduct human subjects testing, often forcing us to rely on observational studies in lieu of controlled experiments, and leaving us with insufficient capacity to investigate all of the various maladies in existence. Lacking satisfactory solutions from the medical profession, many turn to the Internet of desperation, in spite of it being notoriously riddled with pseudoscience and potentially harmful misinformation. Even if a condition has been accurately diagnosed, sham treatments can fail to improve health -— or perhaps make it worse [1].
+They say that in every lie there’s a kernel of truth. There are a multitude of health conditions for which no cure has been discovered, and this is often due at least in part to there being no known cause. The efficiency of medical research is constrained by our limited ability to conduct human subjects testing, often forcing us to rely on observational studies in lieu of controlled experiments, and leaving us with insufficient capacity to investigate all of the various maladies in existence. Lacking satisfactory solutions from the medical profession, many turn to the Internet of desperation, in spite of it being notoriously riddled with pseudoscience and potentially harmful misinformation [1]. Even if a condition has been accurately diagnosed, sham treatments can fail to improve health -— or perhaps make it worse [2].
 
 ## Light at the end of the tunnel
 
@@ -22,4 +22,5 @@ With just one year under its belt, the Kernel of Health system has already ident
 
 ## References
 
-[1] http://www.npr.org/sections/thetwo-way/2016/05/03/476673789/china-investigates-search-engine-baidu-after-student-dies-of-cancer
+[1] http://www.latimes.com/business/hiltzik/la-fi-mh-reporting-on-quacks-and-pseudoscience-20150413-column.html
+[2] http://www.npr.org/sections/thetwo-way/2016/05/03/476673789/china-investigates-search-engine-baidu-after-student-dies-of-cancer
