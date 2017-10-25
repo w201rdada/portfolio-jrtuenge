@@ -1,25 +1,30 @@
-# My second cool idea {#slug-two}
+# A Speaker for Crows {#speaker-for-the-crows}
 
-#### Keywords
+## Keywords
 
-yaba, daba, do
+crow; raven; corvid; parrot; intelligence; sentient; communication; language; converse; machine learning; 
 
-## A beginning.
+## Bright minds shrouded in darkness
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+It was in 2008 or so that I killed my first and only crow. Growing up in the country, I had been taught that a helpless bird on the ground was as good as dead; a quick death was a mercy. So when I found a young crow one day in my back yard, I dispatched it without much thought. Over a year later, the neighborhood crows still hadn't forgiven me. It wasn't until a few years later that I watched "A Murder of Crows" on PBS and finally understood the gravity of my crime -- and the penance I had served [1]. 
 
-## A middle.
+We have not yet established a robust means of conversing with crows or any other intelligent non-human species on its own terms. Without such communication, we cannot reliably distinguish sentience from basic problem solving and parroting (i.e., mimicry). Science is full of surprises, and the potential benefits (for humans and non-humans alike) of inter-species communication can only be guessed at in the interim. 
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+## Many birds, one Rosetta stone
 
+Given that crows are known to use at least 250 different calls, they seem a logical candidate for human-animal communcation research. If we can make earbuds capable of real-time translation [4], surely we can also make speakers to complete the circuit.
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+The intelligence of crows and other corvids is not lost on the machine-learning community [2]. However, there does not appear to be much research yet into application of data science to understanding corvid language, and work on communicating with other species has recently met with justified skepticism [3]. 
 
+ 
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+## We were promised Darwin
 
-## An end.
+Crows are generally not endangered, and actually tend to thrive in the presence of humans.
 
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+## References
+
+[1] http://www.pbs.org/wnet/nature/a-murder-of-crows-crow-facts/5965/  
+[2] https://www.cs.princeton.edu/courses/archive/fall16/cos402/lectures/402-lec1.pdf
+[3] http://www.slate.com/articles/health_and_science/science/2014/08/koko_kanzi_and_ape_language_research_criticism_of_working_conditions_and.html
+[4] https://arstechnica.com/gadgets/2017/10/google-pixel-buds-are-wireless-earbuds-that-translate-conversations-in-real-time/
