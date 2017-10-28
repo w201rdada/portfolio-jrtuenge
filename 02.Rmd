@@ -8,22 +8,21 @@ crow; raven; corvid; parrot; intelligence; sentient; communication; language; co
 
 Growing up in the country, I had been taught that a helpless bird on the ground was as good as dead. So when I found a young crow one day in my backyard I promptly dispatched it, thinking this was a mercy. A year later, its friends and family clearly still hadn't forgiven me. Several years later, I watched "A Murder of Crows" on PBS and finally understood the gravity of my crime [1]. Although I've served my penance in their minds, my interest in corvids and other intelligent wild birds has since only grown. 
 
-Crows fortunately tend to thrive in the presence of humans, and their intelligence isn't lost on the data science community [2]. Machine-learning has been applied to crowdsourced data to study migration patterns [3], but data science has not yet been used for bird identification. If birds could be identified by their distinctive vocal signatures, this could save substantial time for ornithologists while also reducing the stress for birds associated with tagging. 
+Crows fortunately tend to thrive in the presence of humans, and their intelligence isn't lost on the data science community [2]. Machine-learning has been applied to crowdsourced data to study migration patterns [3], but data science had not yet been used for bird identification. If birds could be identified by their distinctive vocal signatures, this could save substantial time for ornithologists while also reducing the stress for birds associated with tagging. 
 
 ## Many birds, one Rosetta stone
 
-American crows express themselves in subsong (albeit rather obnoxiously to most human ears), and are known to use over 20 different calls [4]. Subtle differences between vocal signatures are believed to identify individuals, and dialects distinguish groups [5]. Software is already available to analyze crow calls [6], and we now have earbuds capable of real-time human language translation [7]. Now is the time to begin training machine learning with guidance from ornithologists. 
-
-Metrics
-Recognize call
-Recognize meaning
-Recognize individual
-Recognize group (dialect, age, sex)
-95% confidence
+American crows express themselves in subsong (albeit rather obnoxiously to most human ears), and are known to use over 20 different calls [4]. Subtle differences between vocal signatures were believed to identify individuals, and dialects distinguish groups [5]. Software was already available to analyze crow calls [6], and earbuds capable of real-time human language translation were recently introduced [7]. Provided a large body of data for a set of tagged birds, the following metrics were leveraged for supervised machine learning: 
+* Recognize call
+* Recognize meaning of call
+* Recognize individual
+* Recognize group (dialect, age, sex)
 
 ## We were promised Darwins
 
-We have not yet established a robust means of conversing with crows or any other intelligent non-human species on its own terms. And maybe that's for the better -- perhaps we'd only learn that, in addition to having an annoying sound, they're really only interested in yelling at us to give them a peanut []. Indeed, work on communicating with other species has recently met with justified skepticism []. But scientific discoveries are often (if not by definition) surprising, and for the time being, the potential benefits (for humans and non-humans alike) of inter-species communication can only be guessed at. In the interim, the ability to identify birds by their calls -- and maybe even understand their language -- is a thrilling prospect. 
+We now have a beta version of the CrowSpeak smartphone app in use by ornithologists, currently identifying individuals with 90% confidence. Once ready, the first public release will be used to enlist the help of birdwatchers around the country, thereby greatly diversifying the dataset. We will soon have enough data to further isolate features of vocal signatures that may further improve accuracy by recognizing factors such as age and mood. It is already clear that tagging will soon be obviated entirely. 
+
+We have not yet established a robust means of conversing with crows or any other intelligent non-human species on its own terms. And maybe that's for the better -- perhaps we'd only learn that, in addition to sounding obnoxious, they're really only interested in yelling at us to give them a peanut [8]. Indeed, work on communicating with other species has recently met with justified skepticism [9]. But scientific discoveries are often (if not by definition) surprising, and for the time being, the potential benefits (for humans and non-humans alike) of inter-species communication can only be guessed at. In the interim, the ability to identify birds by their calls is empowering, and the prospect of soon understanding their language is thrilling. 
 
 ## References
 
@@ -34,5 +33,5 @@ We have not yet established a robust means of conversing with crows or any other
 [5] http://news.cornell.edu/stories/2007/02/analysis-shows-differences-alarm-calls-individual-crows
 [6] http://www.birds.cornell.edu/brp/raven/RavenOverview.html
 [7] https://arstechnica.com/gadgets/2017/10/google-pixel-buds-are-wireless-earbuds-that-translate-conversations-in-real-time/
-[] http://www.slate.com/articles/health_and_science/science/2014/08/koko_kanzi_and_ape_language_research_criticism_of_working_conditions_and.html
-[] https://io9.gizmodo.com/heres-what-crows-and-ravens-are-really-saying-1649142811
+[8] https://io9.gizmodo.com/heres-what-crows-and-ravens-are-really-saying-1649142811
+[9] http://www.slate.com/articles/health_and_science/science/2014/08/koko_kanzi_and_ape_language_research_criticism_of_working_conditions_and.html
