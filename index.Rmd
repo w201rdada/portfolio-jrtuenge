@@ -1,6 +1,6 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
+author: "Jason Tuenge"
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
