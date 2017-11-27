@@ -19,7 +19,7 @@ library(magrittr)
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Following are brief abstracts for my two big ideas. As noted in the video linked below, they are presented in order of preference -- I hope you will agree that the first one is particularly worthy of continued team development!
+Following are brief abstracts for my two big ideas. As noted in the video linked below, they are presented in order of preference -- I hope you will agree that the first one is particularly worthy of continued team development!  
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
@@ -27,11 +27,11 @@ Following are brief abstracts for my two big ideas. As noted in the video linked
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-# Abstract of my first cool idea
+# Abstract of my first cool idea  
 
 Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
 
-# Abstract of my second cool idea
+# Abstract of my second cool idea  
 
 Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
   
