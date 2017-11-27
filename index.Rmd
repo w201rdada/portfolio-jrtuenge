@@ -16,7 +16,7 @@ library(magrittr)
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+#knitr::include_graphics('img/hello-world.png')
 ```
 
 The following sections detail my two big ideas for data science. The first idea, A Kernel of Health, seeks to find possible causes for idiopathic medical conditions by harnessing networks of patients to reveal patterns that have thus far gone undetected. The second idea, A Speaker for Crows, aims to leverage available recorded calls by crows and other corvids to enable bird identification without the need for tagging. As noted in the video linked below, these proposals are presented in order of preference and anticipated impact -- I hope you will agree that the first is particularly worthy of continued team development!  
