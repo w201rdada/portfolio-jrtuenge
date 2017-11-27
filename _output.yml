@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  number_sections: FALSE
+  number_sections: TRUE
   dev: svglite
   split_by: chapter
   split_bib: TRUE
@@ -11,10 +11,9 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Oski Bear</a></li>
       after: |
-        <li><a href="https://github.com/oskibear" target="blank">GitHub</a></li>
-        <li><a href="https://www.ischool.berkeley.edu/people/oski-bear" target="blank">UC Berkeley</a></li>
-        <li><a href="https://www.linkedin.com/in/oskibear/" target="blank">LinkedIn</a></li>
-        <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
+        <li><a href="https://github.com/jrtuenge" target="blank">GitHub</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/jrtuenge" target="blank">UC Berkeley</a></li>
+        <li><a href="https://www.linkedin.com/in/jrtuenge/" target="blank">LinkedIn</a></li>
     sharing:
       facebook: no
       twitter: no
