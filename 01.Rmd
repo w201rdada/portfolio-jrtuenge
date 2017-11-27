@@ -1,6 +1,6 @@
 # A Kernel of Health {#kernel-of-health}
 
-#### Keywords
+## Keywords
 
 Disease; ailment; health condition; diagnosis; etiology; unknown cause; idiopathic; confounding variables; nostrum; pseudoscience; quackery; crowdsource; research; remedy
 
