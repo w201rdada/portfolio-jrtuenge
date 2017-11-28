@@ -23,8 +23,8 @@ The following sections detail my two big ideas for data science. The first idea,
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r,echo=FALSE,fig.cap='A Kernel of Health',fig.align='center'}
-knitr::include_url('https://drive.google.com/open?id=1IOAAzKGOGi6t_C5OoOgiDrPVhC8e93T2')
+```{r, echo=FALSE, fig.cap='A Kernel of Health', fig.align='center'}
+knitr::include_url('https://drive.google.com/drive/u/1/folders/1rOPsK9BmA5gXUDC8EV-nOS7cq3wLBFez')
 ```
 
 *Updated: `r Sys.Date()`*
