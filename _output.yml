@@ -9,7 +9,7 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: yes
       before: |
-        <li><a href="./">(placeholder)</a></li>
+        <li><a href="./">Home</a></li>
       after: |
         <li><a href="https://github.com/jrtuenge" target="blank">GitHub</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/jason-tuenge" target="blank">UC Berkeley</a></li>
